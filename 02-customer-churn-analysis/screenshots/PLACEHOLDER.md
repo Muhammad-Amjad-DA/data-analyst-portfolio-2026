@@ -1,0 +1,1 @@
+Add three files here after finishing this project: churn_by_contract.png and tenure_by_churn_boxplot.png (generated automatically when you run python/churn_analysis.py) and tableau_dashboard.png (from tableau/TABLEAU_DASHBOARD_SPEC.md). Delete this placeholder file once real screenshots are added.
