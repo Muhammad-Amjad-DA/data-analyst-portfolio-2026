@@ -1,0 +1,31 @@
+customer_id,tenure_months,contract_type,monthly_charges,total_charges,support_tickets,payment_method,churned
+C001,2,Month-to-month,90,180,4,Electronic check,Yes
+C002,3,Month-to-month,85,255,5,Electronic check,Yes
+C003,1,Month-to-month,95,95,3,Electronic check,Yes
+C004,4,Month-to-month,88,352,4,Mailed check,Yes
+C005,5,Month-to-month,92,460,5,Electronic check,Yes
+C006,2,Month-to-month,80,160,3,Electronic check,Yes
+C007,6,Month-to-month,89,534,4,Mailed check,Yes
+C008,3,Month-to-month,91,273,5,Electronic check,Yes
+C009,1,Month-to-month,93,93,3,Electronic check,Yes
+C010,4,Month-to-month,87,348,4,Electronic check,Yes
+C011,5,Month-to-month,84,420,1,Bank transfer,No
+C012,6,Month-to-month,82,492,0,Credit card,No
+C013,3,Month-to-month,86,258,1,Bank transfer,No
+C014,4,Month-to-month,83,332,0,Credit card,No
+C015,2,Month-to-month,85,170,1,Bank transfer,No
+C016,14,One year,70,980,1,Credit card,No
+C017,18,One year,68,1224,1,Bank transfer,No
+C018,22,One year,72,1584,2,Credit card,No
+C019,12,One year,65,780,1,Bank transfer,No
+C020,20,One year,74,1480,2,Credit card,No
+C021,16,One year,69,1104,1,Bank transfer,No
+C022,13,One year,95,1235,5,Electronic check,Yes
+C023,15,One year,90,1350,4,Electronic check,Yes
+C024,30,Two year,55,1650,0,Bank transfer,No
+C025,36,Two year,58,2088,1,Credit card,No
+C026,24,Two year,52,1248,0,Bank transfer,No
+C027,42,Two year,60,2520,1,Credit card,No
+C028,28,Two year,54,1512,0,Bank transfer,No
+C029,33,Two year,57,1881,1,Credit card,No
+C030,48,Two year,62,2976,0,Bank transfer,No
