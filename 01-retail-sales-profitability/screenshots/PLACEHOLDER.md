@@ -1,0 +1,1 @@
+Add two screenshots to this folder after building the dashboards from the guides in this project: excel_dashboard.png (from excel/EXCEL_DASHBOARD_GUIDE.md) and powerbi_dashboard.png (from powerbi/POWERBI_DASHBOARD_SPEC.md). Delete this placeholder file once real screenshots are added.
