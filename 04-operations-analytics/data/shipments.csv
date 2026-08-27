@@ -1,0 +1,31 @@
+shipment_id,warehouse,carrier,ship_date,promised_days,actual_days,distance_km,on_time,delay_reason
+SHP001,North,CarrierX,2024-02-01,3,3,237,Yes,
+SHP002,North,CarrierX,2024-02-02,3,3,274,Yes,
+SHP003,North,CarrierX,2024-02-03,3,3,311,Yes,
+SHP004,North,CarrierX,2024-02-04,3,3,348,Yes,
+SHP005,North,CarrierX,2024-02-05,3,3,385,Yes,
+SHP006,North,CarrierX,2024-02-06,3,3,422,Yes,
+SHP007,North,CarrierX,2024-02-07,3,3,459,Yes,
+SHP008,North,CarrierY,2024-02-08,3,3,496,Yes,
+SHP009,North,CarrierY,2024-02-09,3,3,533,Yes,
+SHP010,North,CarrierY,2024-02-10,3,5,570,No,Carrier Delay
+SHP011,South,CarrierY,2024-02-11,3,3,607,Yes,
+SHP012,South,CarrierY,2024-02-12,3,7,644,No,Carrier Delay
+SHP013,South,CarrierY,2024-02-13,3,5,681,No,Carrier Delay
+SHP014,South,CarrierY,2024-02-14,3,6,718,No,Carrier Delay
+SHP015,South,CarrierY,2024-02-15,3,7,755,No,Weather
+SHP016,South,CarrierY,2024-02-16,3,5,792,No,Customs Hold
+SHP017,South,CarrierX,2024-02-17,3,3,829,Yes,
+SHP018,South,CarrierX,2024-02-18,3,3,866,Yes,
+SHP019,South,CarrierX,2024-02-19,3,3,903,Yes,
+SHP020,South,CarrierX,2024-02-20,3,3,940,Yes,
+SHP021,East,CarrierX,2024-02-21,3,3,977,Yes,
+SHP022,East,CarrierX,2024-02-22,3,3,1014,Yes,
+SHP023,East,CarrierX,2024-02-23,3,3,1051,Yes,
+SHP024,East,CarrierX,2024-02-24,3,3,1088,Yes,
+SHP025,East,CarrierX,2024-02-25,3,3,1125,Yes,
+SHP026,East,CarrierX,2024-02-26,3,6,1162,No,Warehouse Processing Delay
+SHP027,East,CarrierY,2024-02-27,3,3,1199,Yes,
+SHP028,East,CarrierY,2024-02-28,3,3,236,Yes,
+SHP029,East,CarrierY,2024-02-01,3,3,273,Yes,
+SHP030,East,CarrierY,2024-02-28,3,7,310,No,Carrier Delay
